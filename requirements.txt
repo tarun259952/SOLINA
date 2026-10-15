@@ -1,0 +1,8 @@
+ttkbootstrap
+pyttsx3
+comtypes
+pywin32
+pydub
+PyMuPDF
+EbookLib
+beautifulsoup4
