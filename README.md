@@ -141,3 +141,13 @@ Solina is released under the **[GNU Affero General Public License v3.0](LICENSE)
 | [pywin32](https://github.com/mhammond/pywin32) | PSF |
 
 Licenses can change between versions, so check each project's page for its current terms.
+
+## 🤝 Let's Connect!
+
+If u have any thing to discuss regarding the project I would love to connect 
+
+Thank You 
+
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tarun-panigrahi-523534325)
+* 🐙 **GitHub:** [Follow my latest projects](https://github.com/tarun259952)
+* 📧 **Gmail:** [Send me an email](mailto:tarunpanigrahi259@gmail.com)
