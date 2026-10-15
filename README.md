@@ -2,7 +2,7 @@
 
 Turn text, PDFs and EPUB books into MP3 audio files, using the natural-sounding voices already installed on your PC. Dark, minimal and fully offline. Free and open source.
 
-![Solina main window](screenshots/main.png)
+![Solina main window](Images/main.png)
 
 ## Features
 
@@ -24,7 +24,7 @@ Turn text, PDFs and EPUB books into MP3 audio files, using the natural-sounding 
 - Shows how many files will be created before it starts, with a progress bar and an *Open folder* button when done.
 - Runs locally. Solina has no telemetry and does not send your text anywhere.
 
-![Export complete](screenshots/export-complete.png)
+![Export complete](Images/export.png)
 
 ## Download and install (no Python needed)
 
